@@ -1,29 +1,80 @@
-## Hello, I'm Magno Stiven
+### Hi there 👋, I'm [Magno Stiven](https://github.com/Magno-12) 👨‍💻
+
+<br/>
+
+<a href="https://www.linkedin.com/in/magnomartinez/">
+  <img align="left" alt="Magno Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://t.me/magno12cuco">
+  <img align="left" alt="Magno Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+
+<a href="mailto:magno12.mcmb@gmail.com">
+  <img align="left" alt="Magno Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<br />
+<br/>
 
 ![Banner para Linkedin programador con fotografia azul y blanco](https://github.com/Magno-12/Magno-12/assets/66977118/8477fdf5-b24a-4afd-93a6-cd5d759446e4)
 
+<p>
+I am pursuing a double degree in Electronic Engineering and Systems Engineering, with a profound passion for hardware. 
+<br/>
+I possess advanced skills in programming PIC microcontrollers and software development. My accelerated learning capability allows me to swiftly adapt to new technologies. 
+<br/>  
+Currently, I am deepening my knowledge in data engineering, Machine Learning, and cloud services with AWS. My goal is to apply these skills to the Internet of Things (IoT) and further software development. 
+<br/>
+In addition, I have hands-on experience with software development using Python and JavaScript.
+</p>
 
-I am pursuing a double degree in Electronic Engineering and Systems Engineering, with a profound passion for hardware. I possess advanced skills in programming PIC microcontrollers and software development. My accelerated learning capability allows me to swiftly adapt to new technologies. Currently, I am deepening my knowledge in data engineering, Machine Learning, and cloud services with AWS. My goal is to apply these skills to the Internet of Things (IoT) and further software development. In addition, I have hands-on experience with software development using Python and JavaScript.
+### ✨ Quick Facts
 
-![icons8-python-48](https://github.com/Magno-12/Magno-12/assets/66977118/0ab42750-365f-4705-805a-d1b84cac18f3)
-![icons8-django-48](https://github.com/Magno-12/Magno-12/assets/66977118/2cb8b854-c571-4d6b-90b9-c26ac1249a2b)
-![icons8-flask-50](https://github.com/Magno-12/Magno-12/assets/66977118/83a36252-ed06-45cd-84a3-f801d81d285c)
-![icons8-postgresql-48](https://github.com/Magno-12/Magno-12/assets/66977118/a097677b-4089-41de-830f-77fc8821052b)
-![icons8-firebase-48](https://github.com/Magno-12/Magno-12/assets/66977118/9a15354a-c003-4a96-99d0-11cf57e61661)
-![icons8-mongodb-48](https://github.com/Magno-12/Magno-12/assets/66977118/13e21d69-c5f6-48b6-afde-906bd920d308)
-![icons8-estibador-48](https://github.com/Magno-12/Magno-12/assets/66977118/d95695b4-9d85-49a2-a675-d04d90e0bca3)
-![icons8-postman-api-64](https://github.com/Magno-12/Magno-12/assets/66977118/133fbf55-90c7-4943-a8bf-ef0a0f5bbe46)
-![icons8-amazon-web-services-48](https://github.com/Magno-12/Magno-12/assets/66977118/f1ca6fc2-5ca9-4e50-b735-5b0e40eae805)
-![icons8-cerebro-64](https://github.com/Magno-12/Magno-12/assets/66977118/4f65d44e-017e-42ea-887f-cb79948b6e48)
-![icons8-tensorflow-48](https://github.com/Magno-12/Magno-12/assets/66977118/b1a9582e-d312-4585-815d-f19f616f34af)
-![icons8-opencv-48](https://github.com/Magno-12/Magno-12/assets/66977118/4a6c7c21-c92a-4647-8fab-57fb50b51e7c)
-![icons8-arduino-48](https://github.com/Magno-12/Magno-12/assets/66977118/c2a14a73-1def-40a2-925c-89a52a02dd79)
-![icons8-frambuesa-pi-48](https://github.com/Magno-12/Magno-12/assets/66977118/a7d602fb-a199-4663-8d0c-5808a65dd6e1)
-![icons8-git-48](https://github.com/Magno-12/Magno-12/assets/66977118/a7ac627a-a813-429a-9e6e-260808157127)
-![icons8-github-50](https://github.com/Magno-12/Magno-12/assets/66977118/049ea373-5035-48da-8c8b-c49e4140a77b)
-![icons8-linux-48](https://github.com/Magno-12/Magno-12/assets/66977118/53d094e7-7cae-4b83-9ee5-17fb37e120e2)
+- 🌱 I’m currently learning Machine learning in a bootcamp and AWS in the emerging talent community to earn a developer associate voucher....
+- 💬 Ask me about anything related to Python, Django, Flask, FastAPI, Supabase and firebase(After googling it 😜😌)
+- ⚡️ Fun-Fact: I sleep at 5am 🙃 and I'm sleepy all day 😜
+- 🎿 Hobbies other than coding : reading articles about machine learning, playing soccer, play nintendo switch 🤔🤖..
+- 📫 How to reach me: magno12.mcmb@gmail.com
+- 📝 [Resume](https://www.canva.com/design/DAFuPbiLVGI/HPXdqOgqYwTio-yc1aKOcA/view?utm_content=DAFuPbiLVGI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) (english)
+- 📝 [Resume](https://www.canva.com/design/DAFKMCS9HD0/WMHVgToxFKMROy9vt9k0eA/view?utm_content=DAFKMCS9HD0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) (español)
+
+### 🛠️ Languages and Tools:
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![djangoREST](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![postgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![raspberryPI](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit_learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHubAction](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 <!---
 Magno-12/Magno-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<hr/>
