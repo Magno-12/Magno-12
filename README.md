@@ -30,7 +30,7 @@ In addition, I have hands-on experience with software development using Python a
 
 ### ✨ Quick Facts
 
-- 🌱 I’m currently learning Machine learning in a bootcamp and AWS in the emerging talent community to earn a developer associate voucher....
+- 🌱 I’m currently learning Machine learning in a bootcamp and AWS in the emerging talent community to earn a developer associate voucher and I am learning English....
 - 💬 Ask me about anything related to Python, Django, Flask, FastAPI, Supabase and firebase(After googling it 😜😌)
 - ⚡️ Fun-Fact: I sleep at 5am 🙃 and I'm sleepy all day 😜
 - 🎿 Hobbies other than coding : reading articles about machine learning, playing soccer, play nintendo switch 🤔🤖..
