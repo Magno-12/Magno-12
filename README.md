@@ -77,4 +77,12 @@ In addition, I have hands-on experience with software development using Python a
 Magno-12/Magno-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!---
+### 📟 GitHub Stats 🔝
+
+- the statistics shown is because in my past jobs I did not use my personal account.
+
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Magno-12&theme=dracula)
+--->
 <hr/>
