@@ -10,6 +10,7 @@
   <img align="left" alt="Magno Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
+
 <a href="mailto:magno12.mcmb@gmail.com">
   <img align="left" alt="Magno Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
@@ -35,8 +36,8 @@ In addition, I have hands-on experience with software development using Python a
 - ⚡️ Fun-Fact: I sleep at 5am 🙃 and I'm sleepy all day 😜
 - 🎿 Hobbies other than coding : reading articles about machine learning, playing soccer, play nintendo switch 🤔🤖..
 - 📫 How to reach me: magno12.mcmb@gmail.com
-- 📝 [Resume](https://www.canva.com/design/DAFuPbiLVGI/HPXdqOgqYwTio-yc1aKOcA/view?utm_content=DAFuPbiLVGI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) (english)
-- 📝 [Resume](https://www.canva.com/design/DAFKMCS9HD0/WMHVgToxFKMROy9vt9k0eA/view?utm_content=DAFKMCS9HD0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) (español)
+- 📝 [Resume]([https://www.canva.com/design/DAFuPbiLVGI/HPXdqOgqYwTio-yc1aKOcA/view?utm_content=DAFuPbiLVGI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://docs.google.com/document/d/1_A98QOILiMdOHOS2bsOmyrVP7M3cB5Dc/edit?usp=sharing&ouid=113975797631634488919&rtpof=true&sd=true)) (english)
+- 📝 [Resume]([https://www.canva.com/design/DAFKMCS9HD0/WMHVgToxFKMROy9vt9k0eA/view?utm_content=DAFKMCS9HD0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://docs.google.com/document/d/1_A98QOILiMdOHOS2bsOmyrVP7M3cB5Dc/edit?usp=sharing&ouid=113975797631634488919&rtpof=true&sd=true)) (español)
 
 ### 🛠️ Languages and Tools:
 
